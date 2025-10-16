@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, ich bin Jonas 👋
 
-<!--
-**j-pfalzgraf/j-pfalzgraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer @ [Leuchtturm Gruppe](https://www.leuchtturmgruppe.com/)  
+Team Business Solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Frag mich zu: IT-Sicherheit & Frontend-Fun
+- 📫 So erreichst du mich: E-Mail!
+- 😄 Pronomen: he/him/they
+- ⚡ Fun Fact: Ich bin privat sehr aktiv und besuche viele Veranstaltungen
+
+---
+
+### Fokus
+- Headless Shopware
+- Nuxt 3 + TypeScript
+- UI-Engineering, Performance, DX
+
+### Tech-Stack
+- Nuxt, Vue, TypeScript
+- Shopware APIs, Pinia, Vite
+- Tailwind CSS, Storybook
+- Vitest/Playwright, E2E/CI
+
+### Arbeitsweise
+- Clean Code, Accessible UI
+- Component-Driven
+- CI/CD, GitHub Actions, Code Review
+
+---
+„Build reliable, fast, and accessible storefronts.“
