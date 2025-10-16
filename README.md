@@ -29,4 +29,7 @@ Team Business Solutions
 - CI/CD, GitHub Actions, Code Review
 
 ---
-„Build reliable, fast, and accessible storefronts.“
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-pfalzgraf&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
