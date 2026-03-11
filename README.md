@@ -8,7 +8,6 @@
 
 [![Pronouns](https://img.shields.io/badge/pronouns-he%2Fhim%2Fthey-blueviolet?style=flat-square)](https://pronoun.is/he)
 [![Ask me about](https://img.shields.io/badge/frag%20mich%20zu-IT--Sicherheit%20%26%20Frontend--Fun-blue?style=flat-square)](#)
-[![Contact](https://img.shields.io/badge/kontakt-E--Mail-informational?style=flat-square)](mailto:)
 
 </div>
 
